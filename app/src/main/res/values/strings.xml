@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">UT3garcia</string>
+    <string name="hello">Hello</string>
+    <string name="john">John</string>
+    <string name="search_elements">Search elements</string>
+    <string name="games">Games</string>
+    <string name="contacts">Contacts</string>
+    <string name="health">Health</string>
+    <string name="maps">Maps</string>
+    <string name="trending">Trending</string>
+    <string name="dummy_text">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</string>
+    <string name="home">Home</string>
+    <string name="favorite">Favorite</string>
+    <string name="account">Account</string>
+    <string name="settings">Settings</string>
+</resources>

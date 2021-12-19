@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UT3garcia</string>
+    <string name="hello">Hola</string>
+    <string name="john">Jon</string>
+    <string name="search_elements">Buscar elements</string>
+    <string name="games">Jocs</string>
+    <string name="contacts">Contactes</string>
+    <string name="health">Salut</string>
+    <string name="maps">Mapes</string>
+    <string name="trending">Tendencies</string>
+    <string name="dummy_text">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</string>
+    <string name="home">Llar</string>
+    <string name="favorite">Preferits</string>
+    <string name="account">Compte</string>
+    <string name="settings">Opcions</string>
+</resources>
